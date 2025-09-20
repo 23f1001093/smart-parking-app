@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Session
+Flask-Cors
+Werkzeug
+redis
+celery
+python-dotenv
